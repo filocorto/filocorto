@@ -1,6 +1,6 @@
 <img align="right" width="35%" src="https://github.com/tuo-username/tuo-username/blob/main/assets/wave.gif?raw=true" />
 
-# Ciao, sono [Tuo Nome] 👋
+# Ciao, sono filocorto 👋
 
 Sviluppatore full-stack, bevitore seriale di caffè e collezionista di bug che poi fixo alle 4 del mattino.
 
