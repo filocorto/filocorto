@@ -2,7 +2,7 @@
 
 # Hey, I'm filocorto 👋
 
-Full-stack developer, professional coffee converter ☕ → code, and bug collector since 2015.
+Full-stack developer, professional coffee converter ☕
 
 ### What I actually do all day
 - Write code that works… until you read it too carefully
