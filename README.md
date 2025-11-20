@@ -1,35 +1,29 @@
-<img align="right" width="35%" src="https://github.com/your-username/your-username/blob/main/assets/wave.gif?raw=true" />
+# 👋 Hi, I'm Filocorto
 
-# Hey, I'm filocorto 👋
+Welcome to my GitHub profile!
 
-Full-stack developer, professional coffee converter ☕
+## 👨‍💻 About Me
 
-### What I actually do all day
-- Write code that works… until you read it too carefully
-- Contribute to open source when I'm not fighting Docker
-- Build tools I end up using myself every single day
-- Occasionally teach others how to avoid my own mistakes
+* 🇮🇹 My name is Davide, but online I'm known as *Filocorto*.
+* 🧠 I'm at the very beginning of my programming journey.
+* 🌌 I'm passionate about space, cyber security, and robotics.
 
-### Stuff I use the most
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,rust,go,python,docker,postgres,linux,git&perline=8" />
+## 🔧 Technologies I'm Learning
 
-### Find me around the internet
-<p>
-  <a href="https://twitter.com/your_twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+* 🐍 **Python** – I know only a little, still experimenting.
+* 💻 **C++** – very basic knowledge.
+* 🌐 **HTML** – the language I'm studying more seriously.
 
-### Totally unnecessary but cool stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=tokyonight"/>
+## 🎯 Goals
 
-<img src="https://github.com/your-username/your-username/blob/main/assets/footer.gif?raw=true" width="100%"/>
+* Improve my skills in HTML, CSS, and JavaScript.
+* Build my first real web projects.
+* Slowly keep learning Python and C++.
 
-⭐️ If you like any of my projects, drop a star — it literally makes my whole week.
+## 📫 Contact Me
+
+If you want to talk or collaborate, I'm always open to ideas and suggestions!
+
+---
+
+Thanks for visiting my profile 👇
