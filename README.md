@@ -1,6 +1,6 @@
 <img align="right" width="35%" src="https://github.com/your-username/your-username/blob/main/assets/wave.gif?raw=true" />
 
-# Hey, I'm [Your Name] 👋
+# Hey, I'm filocorto 👋
 
 Full-stack developer, professional coffee converter ☕ → code, and bug collector since 2015.
 
