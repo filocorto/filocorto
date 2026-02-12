@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## 👨‍💻 About Me
 
-* 🇮🇹 My name is Davide, but online I'm known as *Filocorto*.
+* 🇮🇹 My name is Davide, but online I'm known as *filocorto*.
 * 🧠 I'm at the very beginning of my programming journey.
 * 🌌 I'm passionate about space, cyber security, and robotics.
 
@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 
 * 🐍 **Python** – I know only a little, still experimenting.
 * 💻 **C++** – very basic knowledge.
-* 🌐 **HTML** – the language I'm studying more seriously.
+* 🌐 **HTML/CSS** – the language I'm studying more seriously.
 
 ## 🎯 Goals
 
