@@ -1,6 +1,5 @@
 # I'm filocorto
 
-welcome to my GitHub profile!
 
 ## about me
 
